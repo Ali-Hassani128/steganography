@@ -15,6 +15,6 @@ def decode():
 	pass
 
 def main(args):
-    print ("hello")
+    pass
 if __name__=='__main__':
 	main(sys.argv)
